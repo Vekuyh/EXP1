@@ -1,7 +1,7 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
-**Name** : ARUN S
+**Name** : VENKATESH.P
 
-**Reg. No**: 212224230023
+**Reg. No**: 212225230295
 
 **EX**: 01
 
